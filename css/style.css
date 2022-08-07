@@ -70,6 +70,17 @@
       top: 40px;
     }
    }
+@media screen and (max-width:362px){
+    .products h3 span{
+      font-size: 12px;
+    }
+   }
+   @media screen and (max-width:375px) {
+    .logo{
+      width: 120px;
+      padding: 0;
+    }
+   }
    .navbar{
     position: relative;
     box-shadow: 2px 2px 5px #d3202a,0px 0px 0px #d3202a;
